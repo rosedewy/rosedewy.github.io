@@ -1,0 +1,68 @@
+.title {
+	font-size: 24;
+}
+
+.container {
+	background-color: #ffe6e6;
+}
+
+.mynameheader {
+	font-size: 40;
+}
+
+.biographybox {
+	background-color: white;
+}
+
+body, h3 {
+	padding-top: 24px;
+}
+
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.profile-photo {
+	width: : 10%;
+}
+
+.progressbox { /*THIS CONTROLS THE BAR GRAPH FOR CODE AT UNI*/
+	background-color: white;
+}
+
+.imagecontainer {
+	background-color: white;
+}
+
+.showcase { /*THIS CONTROLS THE ROW OF IMAGES*/
+	width: 16%;
+	height: 110px;
+}
+
+.coretextbox { /*THIS CONTROLS THE CV BOX*/
+	background-color: red;
+}
+
+.fa { /*THESE CONTROL THE SOCIAL MEDIA ICONS*/
+	font-size: 30px;
+	color: black;
+}
+
+p {
+	font-size: 12;
+}
+
+li {
+	font-size: 12;
+}
+
+.socialmedia {
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+}
